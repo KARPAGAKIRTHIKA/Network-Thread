@@ -29,13 +29,13 @@ RAM : minimum 4 GB
 ## Output
 
 
-#### Output1 - Name of the output
+### The cross validation test result of Accuracy
+
+![image](https://github.com/user-attachments/assets/223b781a-2079-4e60-96f6-bc7c038818a4)
 
 
-#### Output2 - Name of the output
+Detection Accuracy: 99%
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
@@ -46,9 +46,17 @@ This system not only improves accuracy in threat detection but also adapts conti
 Ultimately, it offers a robust solution for maintaining network integrity and safeguarding sensitive information.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
+[1].Dr Robert Chun , Dr Mike Wu , Mr Navneet Goel.Malware Analysis on PDF(2019)
+IEEE Transactions on Emerging Topics in Computational Intelligence, 2(1), 41-50.
+
+[2].Sumit S. Lad, Amol C. Adamuthe.Malware Classification with Improved Convolutional Neural Network Model.(2020) IEEE Transactions on Emerging Topics in Computational Intelligence, 5(1), 35-50.
+
+[3]. Adel Abusitta, Miles Q. Li and Benjamin C. M. Fung McGill University, Montreal (2021).Malware Classification and Composition Analysis. Proceedings of the IEEE International Conference on Big Data, 1260-1265.
+
+[4].  Fangtian Zhong , Xiuzhen Cheng. (2023).MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors.. IEEE Communications Surveys & Tutorials, 10(4), 56-76.
+
+[5]. Jiaxing Chen, Shiwen Sun, Chengyi Xia, Member, IEEE, Dinghua Shi, and Guanrong Chen. (2023). Modeling and analyzing malware propagation over wireless networks based on hypergraphs. Proceedings of the International Conference on Learning Representations (ICLR).
 
 
 
