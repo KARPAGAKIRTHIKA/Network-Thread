@@ -24,7 +24,7 @@ up to 5.20 GHz)
 Hard disk : minimum 80 GB
 RAM : minimum 4 GB
 ## System Architecture
-![image](https://github.com/user-attachments/assets/68e5b3b1-5a9f-486a-b474-2417729ee2d6)
+![image](https://github.com/user-attachments/assets/add304ee-ff10-4ee6-9d45-66115458623b)
 
 ## Output
 
